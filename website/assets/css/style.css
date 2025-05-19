@@ -1,3 +1,9 @@
 body{
-    background: #BDBDBD;
+    background:rgb(255, 255, 255);
 }
+.no-gap {
+        margin-right: 0;
+        margin-left: 0;
+        padding-right: 0;
+        padding-left: 0;
+    }
